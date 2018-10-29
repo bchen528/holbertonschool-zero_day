@@ -1,1 +1,3 @@
-This project familiarizes you with the concept of running virtual machines (VM), which is a software that imitates a computer system, with a powerful tool that manages VM environments (i.e. Vagrant) so that you can transfer your work to multiple machines and be  a more productive developer. Ubuntu is the primary Linux operating system we use; you can check your operating system by entering the command ‘uname’ into the terminal. Zero-day refers to when a developer discovers that a computer is vulnerable to malware attack and works to fix the problem. 
+# 0x00. Vagrant
+
+[0-hello_ubuntu](0-hello_ubuntu) - output of `uname` in my Ubuntu VM
